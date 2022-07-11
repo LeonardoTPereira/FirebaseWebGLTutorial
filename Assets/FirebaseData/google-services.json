@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397114858599",
+    "project_id": "fir-tutorial-74725",
+    "storage_bucket": "fir-tutorial-74725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397114858599:android:72a832bd5a3e033ef6c8c2",
+        "android_client_info": {
+          "package_name": "LeonardoTortoroPereira.FirebaseTemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397114858599-2paeeujjl6ov5h9m05pv4nrento019bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJUAlwk9tniwdcAk3Hs67wqXDew1Jz9A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397114858599-2paeeujjl6ov5h9m05pv4nrento019bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
